@@ -1,7 +1,8 @@
 
 import './App.css';
 import LocationInfo from './components/LocationInfo';
-import SearchBox from './components/SearchBox';
+
+
 
 function App() {
   return (
